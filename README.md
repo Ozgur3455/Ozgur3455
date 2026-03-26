@@ -43,8 +43,5 @@ Projelerim hakkında konuşmak, iş birliği yapmak veya sadece selam vermek ist
 📧 **E-posta:** [ozgrygtydr@gmail.com](mailto:ozgrygtydr@gmail.com)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 <!--
 **Ozgur3455/Ozgur3455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
